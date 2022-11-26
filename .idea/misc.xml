@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/EscritorioUniversidad/Aplicacion IOT/MyApplication/app/src/main/res/drawable/selector.xml" value="0.2575" />
+        <entry key="..\:/EscritorioUniversidad/Aplicacion IOT/MyApplication/app/src/main/res/layout/activity_dashboard.xml" value="0.27447916666666666" />
+        <entry key="..\:/EscritorioUniversidad/Aplicacion IOT/MyApplication/app/src/main/res/layout/activity_estadist.xml" value="0.536" />
+        <entry key="..\:/EscritorioUniversidad/Aplicacion IOT/MyApplication/app/src/main/res/layout/activity_historial.xml" value="0.264" />
+        <entry key="..\:/EscritorioUniversidad/Aplicacion IOT/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/EscritorioUniversidad/Aplicacion IOT/MyApplication/app/src/main/res/layout/activity_program.xml" value="0.2713541666666667" />
+        <entry key="..\:/EscritorioUniversidad/Aplicacion IOT/MyApplication/app/src/main/res/layout/activity_programar.xml" value="0.4" />
+        <entry key="..\:/EscritorioUniversidad/Aplicacion IOT/MyApplication/app/src/main/res/menu/menu.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
